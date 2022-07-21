@@ -1,0 +1,16 @@
+django
+django-heroku
+gunicorn
+idna
+pillow
+requests
+urllib3
+whitenoise
+boto3
+botocore
+certifi
+chardet
+django-cors-headers
+django-crispy-forms
+django-storages
+django-restframework
