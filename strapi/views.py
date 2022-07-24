@@ -90,3 +90,5 @@ def DetailUpdateDeleteView(request, id):
     elif request.method == 'DELETE':
          detail_object.delete()
          return Response({'msg':'Deleted!'})
+     
+     #djyevjeje
